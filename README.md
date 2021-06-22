@@ -10,7 +10,7 @@ It is possible to add and search for categories and new UNSPSC codes are automat
 [react-debounce-input](https://github.com/nkbt/react-debounce-input) to debounce the search input to not block UI updates.
 
 ## Run Project
-Run the following commands in the in the project directory:
+Run the following commands in the project directory:
 
 ### `yarn`
 
