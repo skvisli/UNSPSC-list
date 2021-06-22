@@ -1,0 +1,55 @@
+.app {
+  max-width: 800px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.search-input {
+  width: 100%;
+  height: 30px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.list {
+  overflow-x: hidden !important;
+  border: 1px solid lightgrey;
+}
+
+.category {
+  display: flex;
+  align-items: center;
+
+  &:hover {
+    background-color: whitesmoke;
+  }
+
+  &:hover .add-btn {
+    visibility: visible;
+  }
+}
+
+.level {
+  &-1 {
+    margin-left: 20px;
+  }
+  &-2 {
+    margin-left: 70px;
+  }
+  &-3 {
+    margin-left: 120px;
+  }
+  &-4 {
+    margin-left: 170px;
+  }
+}
+
+.form {
+  margin-left: 5px;
+}
+
+.add-btn {
+  visibility: hidden;
+  cursor: pointer;
+  margin-left: 20px;
+}
