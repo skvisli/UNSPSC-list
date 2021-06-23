@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Possible improvements
 
-- Styling
+- Styling and responsivness
 - Show parent categories for hits in search result
 - Delete and edit items
 - Automatically set focus on input when adding category
